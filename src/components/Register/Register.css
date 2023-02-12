@@ -1,0 +1,8 @@
+.register{
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    margin: 10px auto;
+    text-align: center;
+    padding: 10px;
+}
